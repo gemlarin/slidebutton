@@ -1,0 +1,22 @@
+a{
+
+}
+
+a.button.slider{
+	position:absolute;
+	background:#333333;
+	color:#ffffff;
+	padding: 1px 20px;
+}
+
+a.button.slider span{
+	position:relative;
+	right:19px;
+	background:#ffffff;
+	color:#000;
+	display: inline-block; 
+	width:40px;
+	height:20px;
+	text-align: center;
+	margin: 1px;
+}
